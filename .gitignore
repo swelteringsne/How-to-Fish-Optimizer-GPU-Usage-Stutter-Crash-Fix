@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary / backup
+*.tmp
+*.bak
