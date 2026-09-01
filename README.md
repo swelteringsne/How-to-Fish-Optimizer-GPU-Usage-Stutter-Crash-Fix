@@ -387,4 +387,3 @@ Use optimization tools responsibly and keep backups of important settings.
 **How to Fish Optimizer** • How to Fish GPU Usage Fix • How to Fish High GPU Usage • How to Fish GPU Load Fix • How to Fish Lag Fix • How to Fish Stutter Fix • How to Fish Crash Fix • How to Fish Black Screen Fix • How to Fish Gray Screen Fix • How to Fish Display Fix • How to Fish Performance Fix • How to Fish Stability Fix • GPU Optimization • Frame-Time Stability • Windows Gaming Optimization
 
 </details>
-                                                                                                    
